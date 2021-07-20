@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    height: 233px;
+    background: #294c71 url(../../assets/images/fundo.png);
+}
+
+.header__logo {
+    width: 63%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    /* background: red; */
+}
+
+.header__logo--text {
+    margin-top: 20px;
+}
